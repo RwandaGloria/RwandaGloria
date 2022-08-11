@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @thetechjackie
+<h1>Hello</h1>
+
+👋 Hi, I’m @thetechjackie
 - 👀 I’m interested in everything, but i'm trying so hard to be so good at C#.
 - 🌱 I’m currently learning C# and .NET for windows applications. 
 - 💞️ I’m looking to collaborate with front end developers, so we could build stuffs together.
