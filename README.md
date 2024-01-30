@@ -28,9 +28,10 @@ My toolkit extends beyond databases. I proficiently navigate Linux environments 
 
 In my coding journey, I've worked with a plethora of frameworks and technologies, including but not limited to:
 - Frameworks: Express.js, Jest, 
-- Database Systems: MySQL, MongoDB, [Other Databases]
+- Database Systems: MySQL, MongoDB
 - Server Management: Linux
 - Web Servers: Nginx, Apache
+- Testing: SuperTest, Jest
 
 ## Let's Connect 📬
 
