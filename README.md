@@ -1,10 +1,10 @@
 # Welcome to My GitHub Repository! 👋🚀
 
-Greetings, fellow coder! I'm [Your Name], a seasoned backend developer with almost three years of diverse experience. My coding journey has taken me through a variety of frameworks and technologies, shaping me into a versatile developer.
+Greetings, fellow coder! I'm Gloria, a seasoned backend developer with almost three years of diverse experience. My coding journey has taken me through a variety of frameworks and technologies, shaping me into a versatile developer.
 
 ## About Me 💻
 
-I thrive on creating robust solutions that not only meet technical requirements but also elevate the overall user experience. Let me take you on a tour of some of my recent and notable projects.
+I thrive on creating robust solutions that not only meet technical requirements but also elevate the overall user experience. Let me take you on a tour of some of my recent and notable projects. I specialize in Node.js(Express) and I also write a bit of C#.
 
 ## Projects 🛠️
 
