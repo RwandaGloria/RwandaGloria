@@ -37,7 +37,7 @@ In my coding journey, I've worked with a plethora of frameworks and technologies
 
 I'm always eager to explore new challenges and collaborate. If you have questions, suggestions, or just want to discuss the latest in tech, feel free to reach out!
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/gloria-solomon-237285183/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/thetechjackie)
+- LinkedIn: [my linkedin](https://www.linkedin.com/in/gloria-solomon-237285183/)
+- Twitter: [my twitter](https://twitter.com/thetechjackie)
 
 Embark on coding adventures with me! 🚀
