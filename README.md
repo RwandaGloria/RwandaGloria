@@ -4,13 +4,12 @@ Greetings, fellow coder! I'm Gloria, a seasoned backend developer with almost th
 
 ## About Me 💻
 
-I thrive on creating robust solutions that not only meet technical requirements but also elevate the overall user experience. Let me take you on a tour of some of my recent and notable projects. I specialize in Node.js(Express) and I also write a bit of C#.
+I'm a developer with a knack for building apps that truly resonate with real customers and users. My passion lies in crafting robust solutions that not only tick all the technical boxes but also take the user experience to new heights. Ready for a peek into some of my recent and noteworthy projects? Step right this way! My expertise lies in Node.js (Express), and I also dabble in a bit of C#.
 
 ## Projects 🛠️
 
-### [URL Shortener Application](https://mylinks-f6107.web.app)
-
-Simplicity meets efficiency in this URL shortener application. The Node.js codebase harmonizes with MongoDB for seamless data management. As a developer, I embrace the power of various frameworks to tailor solutions to project requirements.
+### [Food Baskett](https://foodbaskett.app/)
+Collaborated with product managers and front-end developers to work on serveless functions that power a food ordering system that serves the masses in Imo state, Owerri, Nigeria. 
 
 ### [Whatsapp Chatbot](https://wa.link/zi8fyb)
 
@@ -19,6 +18,13 @@ Revolutionizing data bundle purchases for Nigerians, this chatbot leverages the 
 ### [Telegram Chatbot](https://t.me/Exp_Buddy_bot)
 
 Empowering Telegram users in Nigeria with affordable data bundles, this chatbot showcases my expertise in Telegram API integration and MongoDB utilization. Security is paramount, and I've integrated payment systems like Paystack to ensure seamless transactions.
+
+### Gentle Storm Entertainment https://gentlestorment.com
+Worked on front-end and backend using Vanilla JS and Typescript to build an OTT website that enables users to earn rewards by watching videos and other activities on the site. 
+
+### [URL Shortener Application](https://mylinks-f6107.web.app)
+This is is Open source project that I participated in, by collaborating with front-end developers to build the backend for this project, which is a URL shortener. 
+Simplicity meets efficiency in this URL shortener application. The Node.js codebase harmonizes with MongoDB for seamless data management. 
 
 ## Technology Stack ⚙️
 
@@ -32,6 +38,8 @@ In my coding journey, I've worked with a plethora of frameworks and technologies
 - Server Management: Linux
 - Web Servers: Nginx, Apache
 - Testing: SuperTest, Jest
+
+Before embarking on my tech journey three years ago, I cultivated valuable work experience in marketing. This background enriches my skills as a developer and provides me with a unique advantage over others in crafting user-centric solutions. Additionally, I continually integrate marketing insights into my development process, ensuring a holistic approach to product creation
 
 ## Let's Connect 📬
 
