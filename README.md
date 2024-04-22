@@ -11,7 +11,7 @@ I'm a developer with a knack for building apps that truly resonate with real cus
 ### [Food Baskett](https://foodbaskett.app/)
 Collaborated with product managers and front-end developers to work on serveless functions that power a food ordering system that serves the masses in Imo state, Owerri, Nigeria. 
 
-### [Whatsapp Chatbot](https://wa.link/zi8fyb)
+### [Whatsapp Chatbot](https://wa.link/6fs2f2) --
 
 Revolutionizing data bundle purchases for Nigerians, this chatbot leverages the WhatsApp Cloud API and interfaces with VTU data websites. My commitment to staying on the cutting edge of technology is evident in the dynamic nature of this project.
 
