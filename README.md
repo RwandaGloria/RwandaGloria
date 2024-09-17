@@ -21,7 +21,7 @@ Collaborated closely with product managers and front-end developers to develop a
 
 This bot was made in Javascript, and is a open source personal project that I developed that enables people buy data bundles and fund their wallet in telegram to make data purchases, this chatbot was made as an alternative to the whatsapp Chatbot due to Meta's cost of their API usage. This chatbot showcases my expertise in Telegram API integration and MongoDB database utilization. Security is important, and I've integrated payment systems like Paystack to enable users have seamless transactions. 
 
-### Gentle Storm Entertainment (https://gentlestorment.com)
+### [Gentle Storm Entertainment] (https://gentlestorment.com)
 Worked on front-end and back-end using Vanilla JS and Typescript to build an OTT website that enables users to earn rewards by watching videos and other activities on the site. Work is still ongoing on this... 
 
 ### [URL Shortener Application](https://mylinks-f6107.web.app)
