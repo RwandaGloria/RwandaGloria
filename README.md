@@ -49,6 +49,9 @@ In my coding journey, I've worked with a plethora of frameworks and technologies
 #### **Backend Frameworks**
 - **`Express.js`**: A minimal and flexible Node.js web application framework.
 - **`Strapi`**: A headless CMS that makes content management easy and scalable.
+- **`Nest JS`**
+- - **`GraphQL`**
+
 
 #### **Frontend Technologies**
 - **`HTML`**: The standard markup language for creating web pages.
