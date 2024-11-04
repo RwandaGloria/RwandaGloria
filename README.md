@@ -14,6 +14,9 @@ Bnkle is a cutting-edge platform designed to streamline project management for c
 
 My role involved building API routes for the bnkle platform, API routes for authentication, CRUD(Create, Read Update, Delete) routes, and implementing access control, intrepreting UI/UX designs for better product understanding as well as engaging in pair programming with other backend and frontend developers. 
 
+### [EchoesToSymphony](https://flint-saber-streetcar.glitch.me/)
+I built a website for a coach who helps people speak properly and enunciate words correctly with a more eloquent speech. Built this elegant website with HTML, CSS and Javascript. 
+
 ### [Food Baskett](https://foodbaskett.app/)
 Collaborated closely with product managers and front-end developers to develop and deploy serverless functions using Netlify for a food ordering system serving the Imo State, Owerri, Nigeria. I worked extensively with product managers to discuss and refine requirements, ensuring the solution met both business needs and user expectations. My role included integrating various components of the system, performing unit and integration testing to ensure reliability and performance, and troubleshooting any issues that arose during development. This project highlights my ability to work collaboratively, write cleaner code to enhance user experience.
 
